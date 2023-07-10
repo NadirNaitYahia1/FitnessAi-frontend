@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Readex+Pro:wght@200&family=Reem+Kufi:wght@600&display=swap');
+
+
+ 
+ 
+.part2{
+  /* border: 1px solid rgba(20, 108, 148, 1); */
+  height: auto;
+  width: 100%;
+}
+ 
+  
+  
+  /* border: 1px solid rgba(20, 108, 148, 1); */
+
+
+span {
+  color: #00CECB;
+
+}
+
+p {
+  color: #FFFFFF; 
+  font-size: 18px;
+  font-family: 'Roboto';
+}
+
+.item1{ 
+  /* border: 1px solid rgba(20, 108, 148, 1); */
+}
+.texts1{
+  /* border: 1px solid rgba(20, 108, 148, 1); */
+}
+.item2{
+  /* border: 1px solid rgba(20, 108, 148, 1); */
+}
+.texts2{
+  /* border: 1px solid rgba(20, 108, 148, 1); */
+}
+.parts{
+  /* border: 1px solid rgb(173, 10, 7); */
+}
+ 
+
+.text >p{
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 72px;
+  letter-spacing: 0.1em;
+  text-align: left;
+
+}
+.img0{
+  width: 80% !important;
+  height: 100% !important;
+  /* border: 1px solid rgba(20, 108, 148, 1); */
+}
+ 
+.text2{
+  font-family: 'Reem Kufi';
+  font-size: 34px;
+  font-weight: 600;
+  line-height: 32px;
+  letter-spacing: 0.09em;
+  text-align: left;
+ 
+
+}
+.text2::after{
+  content: "\A";
+  white-space: pre;
+  display: block;
+}
+
+.btn{
+  background-color: rgba(47, 230, 222, 1) !important;
+}
+.btn >p{
+  /* font-family: 'Inter'; */
+font-size: 15px;
+font-weight: 600;
+line-height: 32px;
+letter-spacing: 0em;
+text-align: left;
+color: rgba(26, 27, 31, 1);
+;
+}
+.img2{
+  /* border: 1px solid rgb(148, 20, 20); */
+  /* z-index: -22; */
+  margin-left: -1% !important;
+  margin-right: -5%;
+ 
+}
